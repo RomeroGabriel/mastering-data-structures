@@ -1,11 +1,13 @@
-site_name: Template Repo
+site_name: Mastering Data Structures
 docs_dir: "doc"
-repo_url: https://github.com/RomeroGabriel/template-repo
-repo_name: RomeroGabriel/template-repo
+repo_url: https://github.com/RomeroGabriel/mastering-data-structures
+repo_name: RomeroGabriel/mastering-data-structures
 
 nav:
-    - Home:
-        - index.md
+  - Home:
+    - index.md
+  # Add material parts
+  - Big O: bigO.md
 
 theme:
   name: material
