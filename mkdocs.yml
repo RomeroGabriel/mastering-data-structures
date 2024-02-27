@@ -1,4 +1,4 @@
-site_name: Mastering Data Structures
+site_name: Mastering Algorithms and Data Structures
 docs_dir: "doc"
 repo_url: https://github.com/RomeroGabriel/mastering-data-structures
 repo_name: RomeroGabriel/mastering-data-structures
@@ -8,6 +8,8 @@ nav:
     - index.md
   # Add material parts
   - Big O: bigO.md
+  - Search:
+    - Binary Search: search/binary.md
 
 theme:
   name: material
