@@ -10,6 +10,8 @@ nav:
   - Big O: bigO.md
   - Search:
     - Binary Search: search/binary.md
+  - Sort:
+    - Bubble Sort: sort/bubble_sort.md
 
 theme:
   name: material
