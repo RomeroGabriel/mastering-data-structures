@@ -8,6 +8,8 @@ nav:
     - index.md
   # Add material parts
   - Big O: bigO.md
+  - Essential Data Structures:
+    - Queue: essential/queue.md
   - Search:
     - Binary Search: search/binary.md
   - Sort:
