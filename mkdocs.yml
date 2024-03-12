@@ -10,6 +10,7 @@ nav:
   - Big O: bigO.md
   - Essential Data Structures:
     - Queue: essential/queue.md
+    - Stack: essential/stack.md
   - Search:
     - Binary Search: search/binary.md
   - Sort:
