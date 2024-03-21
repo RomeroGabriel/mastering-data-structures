@@ -15,6 +15,7 @@ nav:
     - Binary Search: search/binary.md
   - Sort:
     - Bubble Sort: sort/bubble_sort.md
+    - Quick Sort: sort/quick_sort.md
 
 theme:
   name: material

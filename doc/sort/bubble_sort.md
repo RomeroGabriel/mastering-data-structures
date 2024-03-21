@@ -17,15 +17,15 @@ Bubble Sort is a simple sorting algorithm that `works by repeatedly swapping adj
 
 ??? example "Illustration"
     <figure markdown="span">
-        ![Image title](https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp){ width="600" }
+        ![Step 1 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp){ width="600" }
         <figcaption>[*Step 1 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks*](https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp)</figcaption>
     </figure>
     <figure markdown="span">
-        ![Image title](https://media.geeksforgeeks.org/wp-content/uploads/20230526103914/2.webp){ width="600" }
+        ![Step 2 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20230526103914/2.webp){ width="600" }
         <figcaption>[*Step 2 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks*](https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp)</figcaption>
     </figure>
     <figure markdown="span">
-        ![Image title](https://media.geeksforgeeks.org/wp-content/uploads/20230526103949/3.webp){ width="600" }
+        ![Step 3 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks](https://media.geeksforgeeks.org/wp-content/uploads/20230526103949/3.webp){ width="600" }
         <figcaption>[*Step 3 -Bubble Sort – Data Structure and Algorithm Tutorials from geeksforgeeks*](https://media.geeksforgeeks.org/wp-content/uploads/20230526103842/1.webp)</figcaption>
     </figure>
 
