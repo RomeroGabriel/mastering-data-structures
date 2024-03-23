@@ -16,6 +16,8 @@ nav:
   - Sort:
     - Bubble Sort: sort/bubble_sort.md
     - Quick Sort: sort/quick_sort.md
+  - Linked List:
+    - Double Linked List: linked_list/doubly_list.md
 
 theme:
   name: material
