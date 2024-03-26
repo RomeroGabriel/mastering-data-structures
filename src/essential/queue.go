@@ -36,6 +36,9 @@ func (q *Queue[T]) deque() *T {
 	//  change head to next element
 	q.head = q.head.next
 	head.next = nil
+	if q.length == 0 {
+		q.tail = nil
+	}
 	return &head.value
 }
 

@@ -21,6 +21,7 @@ nav:
   - Trees:
     - tree/tree.md
     - Tree Traversals: tree/traversals.md
+    - Search: tree/search.md
 
 theme:
   name: material
