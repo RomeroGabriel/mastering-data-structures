@@ -10,3 +10,17 @@
 6. *Leaves*: nodes without children.
 7. *Balanced Tree*: A tree is perfectly balanced when any node's left and right children have the `same height`.
 8. *Branching Factor* - The amount of children a tree has.
+
+### Binary Tree Comparison
+
+??? example "Code Implementation"
+
+    ```bash
+    $ go run src/tree/compare_binary.go
+    A and B is equal?  true
+    A and B is equal?  false
+    ```
+
+    ```go
+    --8<-- "src/tree/compare_binary.go"
+    ```
