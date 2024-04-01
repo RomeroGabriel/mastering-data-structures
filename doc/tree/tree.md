@@ -11,7 +11,7 @@
 7. *Balanced Tree*: A tree is perfectly balanced when any node's left and right children have the `same height`.
 8. *Branching Factor* - The amount of children a tree has.
 
-### Binary Tree Comparison
+## Binary Tree Comparison
 
 ??? example "Code Implementation"
 
