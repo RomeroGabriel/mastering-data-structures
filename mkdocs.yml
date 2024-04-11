@@ -22,7 +22,7 @@ nav:
     - tree/tree.md
     - Tree Traversals: tree/traversals.md
     - Search: tree/search.md
-
+  - Heap: heap.md
 theme:
   name: material
   language: en
